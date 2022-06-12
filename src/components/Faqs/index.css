@@ -1,0 +1,27 @@
+.bg-cont {
+  background-color: #e4e7eb;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-cont {
+  background-color: white;
+  width: 90%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  padding-top: 20px;
+}
+.heading {
+  color: #cb8805;
+  margin-top: 50px;
+}
+.list-cont {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}

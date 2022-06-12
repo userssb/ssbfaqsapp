@@ -1,0 +1,23 @@
+/* Write your code here. */
+.question {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: Roboto;
+  margin-right: 20px;
+}
+.qa-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pm-btn {
+  border: none;
+  background-color: transparent;
+}
+.list-item {
+  width: 100%;
+  border: 1px solid #d7dae6;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  padding: 16px;
+}
